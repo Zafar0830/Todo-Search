@@ -1,0 +1,39 @@
+button{
+    background-color: red;
+    margin: 0;
+  
+}
+li{
+    width: 200px;
+    height: 25px;
+    background-color: aqua;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: 0;
+    padding: 0  0 0 10px;
+    margin-bottom: 10px;
+}
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    background-color: bisque;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.list{
+    margin: 0;
+    padding: 0;
+    width: 210px;
+}
+.search{
+    width: 210px;
+    height: 20px;
+    margin-bottom: 10px;
+}
+.input{
+    margin-bottom: 20px;
+}
